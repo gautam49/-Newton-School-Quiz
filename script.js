@@ -1,5 +1,13 @@
 const quizDb=[
     {
+    question:"Q1: What is the full form of HTML?",
+        a:"Hello Truth Markup Language",
+        b:"Hyper Texr Markup Language",
+        c:"Htmi Text MarkUp Language",
+        d:"Hyper Text Markup Language",
+        ans:"ans4"
+    },
+    {
         question:"Q1: What is the full form of HTML?",
         a:"Hello Truth Markup Language",
         b:"Hyper Texr Markup Language",
@@ -11,7 +19,7 @@ const quizDb=[
         question:"Q2: What is this keyword work in arrow function?",
         a:"Take parent adress",
         b:"Global Adress",
-        c:"APne ghr  k Adress",
+        c:"APne ghr  ka Adress",
         d:"Errror",
         ans:"ans2"
     },
