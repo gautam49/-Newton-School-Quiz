@@ -21,7 +21,7 @@ const quizDb=[
         b:"No",
         c:"Dekhenge",
         d:"😆",
-        ans:"ans1"
+        ans:"ans2"
     },
     {
         question:"Q4: Kya aapne 3 lkh Tyar rkhe h ",
