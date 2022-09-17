@@ -1,6 +1,6 @@
 const quizDb=[
     {
-    question:"Q1: What is the full form of HTML?",
+        question:"Q1: What is the full form of HTML?",
         a:"Hello Truth Markup Language",
         b:"Hyper Texr Markup Language",
         c:"Htmi Text MarkUp Language",
@@ -8,23 +8,15 @@ const quizDb=[
         ans:"ans4"
     },
     {
-        question:"Q2: What is the full form of HTML?",
-        a:"Hello Truth Markup Language",
-        b:"Hyper Texr Markup Language",
-        c:"Htmi Text MarkUp Language",
-        d:"Hyper Text Markup Language",
-        ans:"ans4"
-    },
-    {
-        question:"Q3: What is this keyword work in arrow function?",
+        question:"Q2: What is this keyword work in arrow function?",
         a:"Take parent adress",
         b:"Global Adress",
-        c:"APne ghr  ka Adress",
+        c:"APne ghr  k Adress",
         d:"Errror",
         ans:"ans2"
     },
     {
-        question:"Q4: Is Newton School is a Fraud?",
+        question:"Q3: Is Newton School is a Fraud?",
         a:"Yes",
         b:"No",
         c:"Dekhenge",
@@ -32,7 +24,7 @@ const quizDb=[
         ans:"ans1"
     },
     {
-        question:"Q5: Kya aapne 3 lkh Tyar rkhe h ",
+        question:"Q4: Kya aapne 3 lkh Tyar rkhe h ",
         a:"No",
         b:"Yes",
         c:"Dekhenge",
