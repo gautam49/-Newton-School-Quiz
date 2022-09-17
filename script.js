@@ -16,7 +16,7 @@ const quizDb=[
         ans:"ans2"
     },
     {
-        question:"Q3: Is Newton School is a Fraud?",
+        question:"Q3: Is Newton School  a Fraud?",
         a:"Yes",
         b:"No",
         c:"Dekhenge",
